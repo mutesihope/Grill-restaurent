@@ -122,7 +122,6 @@ li {
   height: 100vh;
   background-color: rgb(275, 275, 275, 0.3);
   width: 100%;
-  z-index: 1;
   font-size: 1.4rem;
 }
 
