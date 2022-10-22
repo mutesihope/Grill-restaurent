@@ -83,13 +83,19 @@ nav {
   width: 100%;
 }
 
-.speakers img {
-  width: 40%;
-  height: auto;
-  margin-right: 10px;
+.speakers .speaker-img img{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  padding-left: 12%;
+  padding-top: 12%;
+}
 
-  /* box-shadow: -5px -5px 3px rgb(236 82 66 / 30%); */
-  box-shadow: -5px -5px 3px rgb(23 21 21 / 30%);
+.speaker-img{
+  position: relative;
+  background-image: url(./components/chess.png);
+  background-size: 70px 70px;
+  background-repeat: no-repeat;
 }
 
 .speak-element {
