@@ -83,19 +83,31 @@ nav {
   width: 100%;
 }
 
-.speakers .speaker-img img{
+.partners-icon img {
+  width: 150px;
+}
+
+.container h2 a img {
+  text-decoration: none;
+  width: 40px;
+  height: 40px;
+}
+
+.speakers .speaker-img img {
   width: 150px;
   height: 150px;
   object-fit: cover;
   padding-left: 12%;
   padding-top: 12%;
+  margin-left: 10px;
 }
 
-.speaker-img{
+.speaker-img {
   position: relative;
   background-image: url(./components/chess.png);
   background-size: 70px 70px;
   background-repeat: no-repeat;
+  margin-right: 10px;
 }
 
 .speak-element {
@@ -105,16 +117,6 @@ nav {
 
 .speak-element > p {
   width: 100%;
-}
-
-.partners-icon img {
-  width: 150px;
-}
-
-.container h2 a img {
-  text-decoration: none;
-  width: 40px;
-  height: 40px;
 }
 
 ul {
