@@ -16,6 +16,8 @@ This project is created for the restaurant activities using a design from [Behan
 
 ## Video link
 
+[Loom](https://www.loom.com/share/211a22ba82ca4b5db3f2dc4723212b1a)
+
 
 ## Getting Started
 git clone (https://github.com/mutesihope/Grill-restaurent.git)
