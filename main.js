@@ -50,7 +50,7 @@ const speakerList = [{
 
 {
   imageLink: './components/speaker2.jpg',
-  title: 'Toussaint Saraza',
+  title: 'John Don',
   description: 'Lorem ipsum dolor.',
   fullDescription: ' Lorem ipsum dolor sit amet consectetur adipisicing elit.',
 },
