@@ -12,7 +12,7 @@ This project is created for the restaurant activities using a design from [Behan
 - JavaScript
 
 ## Live Demo
-[Link]()
+[Link](https://mutesihope.github.io/Grill-restaurent/)
 
 ## Video link
 
